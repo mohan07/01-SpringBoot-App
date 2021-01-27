@@ -11,5 +11,11 @@ public class Application {
 
 		int a=10;
 	}
+	
+	//HIS 2001 related changes
+	public void doProcess() {
+	
+		//logic goes here 
+	}
 
 }
