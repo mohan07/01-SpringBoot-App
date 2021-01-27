@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-	
 	private static final String REST_URL = "Some URL";
 
 	public static void main(String[] args) {
